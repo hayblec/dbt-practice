@@ -8,6 +8,6 @@ lessons:
       method: oauth
       priority: interactive
       project: dbt-course-476614
-      threads: 2
+      threads: 3
       type: bigquery
   target: dev
